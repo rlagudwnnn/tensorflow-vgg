@@ -42,3 +42,5 @@ with tf.device('/cpu:0'):
 
     # test save
     vgg.save_npy(sess, './test-save.npy')
+    
+    d
